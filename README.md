@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ted Odera
 =================================================================================================================================
 
-Android & Frontend Engineer 
+Wordpress (PHP) & Frontend Engineer 
 ----------------
 
-Experienced Android Developer with over 4+ years of enterprise experience in Software and Mobile development in industries including Banking, Education, Telecoms and Mobile Payments. Solid understating of full mobile and backend development including SCRUM and Agile methodologies. Well conversant with version control, testing tools, deployment tools amongst others. Excellent reputation for resolving problems, improving customer satisfaction, training, and leading in software projects.
+Experienced Software Developer with over 5+ years of enterprise experience in Software development in industries including Education, Telecoms and Mobile Payments. Solid understating of full mobile and backend development including SCRUM and Agile methodologies. Well conversant with version control, testing tools, deployment tools amongst others. Excellent reputation for resolving problems, improving customer satisfaction, training, and leading in software projects.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [odera.ted@protonmail.com](mailto:odera.ted@protonmail.com)
@@ -33,7 +33,7 @@ Experienced Android Developer with over 4+ years of enterprise experience in Sof
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/oderathegreat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ted-odera-android-engineer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/teddodera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/oderathegreat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/teddodera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
