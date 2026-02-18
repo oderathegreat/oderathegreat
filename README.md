@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ted Odera
 =================================================================================================================================
 
-PHP Developer - Laravel, Symfony 
+Senior Mobile Developer
 ----------------
 
-Experienced Software Developer with over 5+ years of enterprise experience in Software development in industries including Education, Telecoms and Mobile Payments. Solid understating of full mobile and backend development including SCRUM and Agile methodologies. Well conversant with version control, testing tools, deployment tools amongst others. Excellent reputation for resolving problems, improving customer satisfaction, training, and leading in software projects.
+Experienced Software Developer with over 7+ years of enterprise experience in Software development in industries including Education, Telecoms and Mobile Payments. Solid understating of full mobile and backend development including SCRUM and Agile methodologies. Well conversant with version control, testing tools, deployment tools amongst others. Excellent reputation for resolving problems, improving customer satisfaction, training, and leading in software projects.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [odera.ted@protonmail.com](mailto:odera.ted@protonmail.com)
